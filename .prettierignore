@@ -1,0 +1,10 @@
+
+# Ignore artifacts:
+build
+node_modules
+package-lock.json
+.gitignore
+package.json
+public/index.html
+public/manifest.json
+src/reportWebVitals.js
